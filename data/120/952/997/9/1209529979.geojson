@@ -48,7 +48,7 @@
         "wk:page":"Las_Delicias%2C_Bocas_del_Toro"
     },
     "wof:country":"PA",
-    "wof:geomhash":"e3dab5ce46000e3ebae574ba7bd3b68e",
+    "wof:geomhash":"9f1a804fbe27f58ca3f3d256a5d4de67",
     "wof:hierarchy":[
         {
             "country_id":85632179,
@@ -71,5 +71,5 @@
     -82.84973000000002,
     9.60942
 ],
-  "geometry": {"coordinates":[-82.84973000000002,9.60942],"type":"Point"}
+  "geometry": {"coordinates":[-82.84973,9.60942],"type":"Point"}
 }

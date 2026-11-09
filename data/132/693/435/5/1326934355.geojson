@@ -58,7 +58,7 @@
         "wk:page":"Miramar%2C_Bocas_del_Toro"
     },
     "wof:country":"PA",
-    "wof:geomhash":"14af1790e0011f99c0b8a538bd3ae946",
+    "wof:geomhash":"ff284869622c627af5f36741ce88f7ee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -86,5 +86,5 @@
     -82.24146999999998,
     8.99482
 ],
-  "geometry": {"coordinates":[-82.24146999999998,8.99482],"type":"Point"}
+  "geometry": {"coordinates":[-82.24147,8.99482],"type":"Point"}
 }

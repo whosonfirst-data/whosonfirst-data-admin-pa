@@ -49,7 +49,7 @@
         "wk:page":"Dominical%2C_Chiriqu%C3%AD"
     },
     "wof:country":"PA",
-    "wof:geomhash":"e804052640041ee77c2229984718ff1b",
+    "wof:geomhash":"50c4763a1dead83fc0b28c40a0e19c35",
     "wof:hierarchy":[
         {
             "country_id":85632179,
@@ -74,5 +74,5 @@
     -82.79831999999998,
     8.66909
 ],
-  "geometry": {"coordinates":[-82.79831999999998,8.66909],"type":"Point"}
+  "geometry": {"coordinates":[-82.79832,8.66909],"type":"Point"}
 }

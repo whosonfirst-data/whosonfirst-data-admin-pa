@@ -52,7 +52,7 @@
         "wk:page":"El_Pantano"
     },
     "wof:country":"PA",
-    "wof:geomhash":"6641a751d801b0049f00fe9e76b41607",
+    "wof:geomhash":"e89b6db3bb44fb5482c2fed3bac93299",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,5 +80,5 @@
     -81.06940999999998,
     8.53755
 ],
-  "geometry": {"coordinates":[-81.06940999999998,8.53755],"type":"Point"}
+  "geometry": {"coordinates":[-81.06941,8.53755],"type":"Point"}
 }

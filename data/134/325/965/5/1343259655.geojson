@@ -46,7 +46,7 @@
         "gn:id":3710502
     },
     "wof:country":"PA",
-    "wof:geomhash":"59dfa4f9e8f4692cae7048ea1575d2cc",
+    "wof:geomhash":"73b84c76e0696a7e047535a28d71e560",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,5 +72,5 @@
     -78.98333000000002,
     9.2
 ],
-  "geometry": {"coordinates":[-78.98333000000002,9.2],"type":"Point"}
+  "geometry": {"coordinates":[-78.98333,9.2],"type":"Point"}
 }

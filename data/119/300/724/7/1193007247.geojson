@@ -55,7 +55,7 @@
         "wk:page":"Bisvalles"
     },
     "wof:country":"PA",
-    "wof:geomhash":"fcd176d4b88343786e95727b114e0bc0",
+    "wof:geomhash":"6ea376b26b7b012d79a6e094ff0a0eac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,5 +83,5 @@
     -81.22091999999998,
     8.18298
 ],
-  "geometry": {"coordinates":[-81.22091999999998,8.18298],"type":"Point"}
+  "geometry": {"coordinates":[-81.22092,8.18298],"type":"Point"}
 }

@@ -52,7 +52,7 @@
         "wk:page":"San_Bartolo%2C_Veraguas"
     },
     "wof:country":"PA",
-    "wof:geomhash":"9ddf755f7f81cadfb6d731f0ae7b4187",
+    "wof:geomhash":"66a6166be833cb88b9f469fb8660d82d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,5 +80,5 @@
     -81.27571999999998,
     8.21063
 ],
-  "geometry": {"coordinates":[-81.27571999999998,8.21063],"type":"Point"}
+  "geometry": {"coordinates":[-81.27572,8.21063],"type":"Point"}
 }

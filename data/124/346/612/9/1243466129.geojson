@@ -52,7 +52,7 @@
         "wk:page":"El_Potrero%2C_Cocl%C3%A9"
     },
     "wof:country":"PA",
-    "wof:geomhash":"71d0d0fefb5d4004a1f8f303252bdf52",
+    "wof:geomhash":"2aa2ad55627cabcf8935c77059ae6f23",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,5 +80,5 @@
     -80.51680999999998,
     8.52146
 ],
-  "geometry": {"coordinates":[-80.51680999999998,8.52146],"type":"Point"}
+  "geometry": {"coordinates":[-80.51681,8.52146],"type":"Point"}
 }

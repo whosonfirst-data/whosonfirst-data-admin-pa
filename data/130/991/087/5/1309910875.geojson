@@ -51,7 +51,7 @@
         "wk:page":"Tucut%C3%AD"
     },
     "wof:country":"PA",
-    "wof:geomhash":"9de539fcaa9c4c41e80e720e2f99ba6f",
+    "wof:geomhash":"a9e6de4b45b3e176718e7e4278db3ce0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,5 +77,5 @@
     -77.94561999999998,
     7.92794
 ],
-  "geometry": {"coordinates":[-77.94561999999998,7.92794],"type":"Point"}
+  "geometry": {"coordinates":[-77.94562,7.92794],"type":"Point"}
 }

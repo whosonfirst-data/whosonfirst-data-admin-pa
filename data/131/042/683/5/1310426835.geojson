@@ -52,7 +52,7 @@
         "wk:page":"El_Ca%C3%B1af%C3%ADstulo"
     },
     "wof:country":"PA",
-    "wof:geomhash":"09fcfa5f3558980894a1b8a12c13b450",
+    "wof:geomhash":"1f5d669c7f08dcff239172d31acab1b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,5 +80,5 @@
     -80.23321999999997,
     7.61768
 ],
-  "geometry": {"coordinates":[-80.23321999999997,7.61768],"type":"Point"}
+  "geometry": {"coordinates":[-80.23322,7.61768],"type":"Point"}
 }

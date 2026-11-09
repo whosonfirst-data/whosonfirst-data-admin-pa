@@ -52,7 +52,7 @@
         "wk:page":"Caballero%2C_Cocl%C3%A9"
     },
     "wof:country":"PA",
-    "wof:geomhash":"1f97f02d0e99975b283d9c3f617b616f",
+    "wof:geomhash":"7dc435ba8e71a0b217756e8948a83a51",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,5 +80,5 @@
     -80.19769000000002,
     8.54343
 ],
-  "geometry": {"coordinates":[-80.19769000000002,8.54343],"type":"Point"}
+  "geometry": {"coordinates":[-80.19769,8.54343],"type":"Point"}
 }

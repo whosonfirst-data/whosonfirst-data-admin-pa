@@ -52,7 +52,7 @@
         "wk:page":"El_Calabacito"
     },
     "wof:country":"PA",
-    "wof:geomhash":"2e3b9e9287faeac25ba86039f93c696c",
+    "wof:geomhash":"e40e42532b5bf02e48b7205640d3c183",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,5 +80,5 @@
     -80.59756999999998,
     7.71843
 ],
-  "geometry": {"coordinates":[-80.59756999999998,7.71843],"type":"Point"}
+  "geometry": {"coordinates":[-80.59757,7.71843],"type":"Point"}
 }

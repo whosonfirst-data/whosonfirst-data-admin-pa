@@ -55,7 +55,7 @@
         "wk:page":"El_Pedregoso%2C_Los_Santos"
     },
     "wof:country":"PA",
-    "wof:geomhash":"7897b3afadf03051511beb572ab4512a",
+    "wof:geomhash":"a4b738f12c2d475d775489cc2a1f83e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,5 +83,5 @@
     -80.32793000000002,
     7.69173
 ],
-  "geometry": {"coordinates":[-80.32793000000002,7.69173],"type":"Point"}
+  "geometry": {"coordinates":[-80.32793,7.69173],"type":"Point"}
 }

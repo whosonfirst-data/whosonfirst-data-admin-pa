@@ -52,7 +52,7 @@
         "wk:page":"El_Alto%2C_Panama"
     },
     "wof:country":"PA",
-    "wof:geomhash":"8795b6dd031158be1a00825c4e68f43d",
+    "wof:geomhash":"38879a414ef1fd7db1a676228829b2b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,5 +80,5 @@
     -81.03645999999998,
     8.51191
 ],
-  "geometry": {"coordinates":[-81.03645999999998,8.51191],"type":"Point"}
+  "geometry": {"coordinates":[-81.03646,8.51191],"type":"Point"}
 }

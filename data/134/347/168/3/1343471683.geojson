@@ -55,7 +55,7 @@
         "wk:page":"Dos_R%C3%ADos%2C_Chiriqu%C3%AD"
     },
     "wof:country":"PA",
-    "wof:geomhash":"571d1636f21805f4644c86c5a053e261",
+    "wof:geomhash":"d140ce02e887326cb81454a311666267",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,5 +83,5 @@
     -82.39976999999998,
     8.55171
 ],
-  "geometry": {"coordinates":[-82.39976999999998,8.55171],"type":"Point"}
+  "geometry": {"coordinates":[-82.39977,8.55171],"type":"Point"}
 }

@@ -55,7 +55,7 @@
         "wk:page":"Bah%C3%ADa_Honda%2C_Veraguas"
     },
     "wof:country":"PA",
-    "wof:geomhash":"7c33f29680aec0704659fc94d91bc272",
+    "wof:geomhash":"d832771912081a35fc376158932946e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -82,5 +82,5 @@
     -81.51704000000002,
     7.75244
 ],
-  "geometry": {"coordinates":[-81.51704000000002,7.75244],"type":"Point"}
+  "geometry": {"coordinates":[-81.51704,7.75244],"type":"Point"}
 }

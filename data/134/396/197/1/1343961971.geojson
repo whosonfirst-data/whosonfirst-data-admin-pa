@@ -48,7 +48,7 @@
         "wk:page":"Valle_de_Agua_Arriba"
     },
     "wof:country":"PA",
-    "wof:geomhash":"e7de04c630fa50130556642a7ad7db94",
+    "wof:geomhash":"fa5597c10707de26470369af3073e7e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,5 +74,5 @@
     -82.37876999999997,
     9.24437
 ],
-  "geometry": {"coordinates":[-82.37876999999997,9.24437],"type":"Point"}
+  "geometry": {"coordinates":[-82.37877,9.24437],"type":"Point"}
 }

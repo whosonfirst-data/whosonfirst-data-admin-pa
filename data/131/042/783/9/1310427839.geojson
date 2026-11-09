@@ -52,7 +52,7 @@
         "wk:page":"Llano_Grande%2C_Herrera"
     },
     "wof:country":"PA",
-    "wof:geomhash":"5e152987861054b3b6f3b65e0bba1ed8",
+    "wof:geomhash":"313dd378087b5db0004177516e0af2d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,5 +80,5 @@
     -80.71103000000002,
     7.97406
 ],
-  "geometry": {"coordinates":[-80.71103000000002,7.97406],"type":"Point"}
+  "geometry": {"coordinates":[-80.71103,7.97406],"type":"Point"}
 }

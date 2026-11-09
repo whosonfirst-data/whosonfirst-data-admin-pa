@@ -52,7 +52,7 @@
         "wk:page":"El_Toro%2C_Herrera"
     },
     "wof:country":"PA",
-    "wof:geomhash":"2e5e4116ae26339bc1640c175d281d01",
+    "wof:geomhash":"0badd62234e27f594fd26a7fdd498f44",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,5 +80,5 @@
     -80.86943000000002,
     7.7511
 ],
-  "geometry": {"coordinates":[-80.86943000000002,7.7511],"type":"Point"}
+  "geometry": {"coordinates":[-80.86943,7.7511],"type":"Point"}
 }

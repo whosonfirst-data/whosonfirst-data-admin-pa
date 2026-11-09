@@ -59,7 +59,7 @@
         "wk:page":"Los_Algarrobos%2C_Chiriqu%C3%AD"
     },
     "wof:country":"PA",
-    "wof:geomhash":"139034328e664a84f9478e476164447a",
+    "wof:geomhash":"248622c53043e17187d299106fee45ef",
     "wof:hierarchy":[
         {
             "country_id":85632179,
@@ -84,5 +84,5 @@
     -82.42416999999998,
     8.49601
 ],
-  "geometry": {"coordinates":[-82.42416999999998,8.49601],"type":"Point"}
+  "geometry": {"coordinates":[-82.42417,8.49601],"type":"Point"}
 }

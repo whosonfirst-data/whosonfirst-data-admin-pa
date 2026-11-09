@@ -55,7 +55,7 @@
         "wk:page":"El_Cocla"
     },
     "wof:country":"PA",
-    "wof:geomhash":"cbbe46b18b25ca864673f56c357ad91c",
+    "wof:geomhash":"4a24bf94ff1d7b33d8e5e6eeeefa0b5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,5 +83,5 @@
     -80.92069000000002,
     8.32143
 ],
-  "geometry": {"coordinates":[-80.92069000000002,8.32143],"type":"Point"}
+  "geometry": {"coordinates":[-80.92069,8.32143],"type":"Point"}
 }

@@ -55,7 +55,7 @@
         "wk:page":"P%C3%BAcuro"
     },
     "wof:country":"PA",
-    "wof:geomhash":"9a8c2fc046e59f1b66506b53eba9d4e7",
+    "wof:geomhash":"2a63cff35277ae9ad06aa2fbf3d941a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,5 +83,5 @@
     -77.48758000000002,
     7.97876
 ],
-  "geometry": {"coordinates":[-77.48758000000002,7.97876],"type":"Point"}
+  "geometry": {"coordinates":[-77.48758,7.97876],"type":"Point"}
 }

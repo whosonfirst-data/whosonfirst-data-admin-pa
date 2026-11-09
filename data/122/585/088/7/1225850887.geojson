@@ -52,7 +52,7 @@
         "wk:page":"El_Guabo%2C_Col%C3%B3n"
     },
     "wof:country":"PA",
-    "wof:geomhash":"7237a987b829179bda77bd4e7a7942fb",
+    "wof:geomhash":"0ce54deaa171504d1833033546b479de",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,5 +80,5 @@
     -80.08315999999998,
     9.07842
 ],
-  "geometry": {"coordinates":[-80.08315999999998,9.07842],"type":"Point"}
+  "geometry": {"coordinates":[-80.08316,9.07842],"type":"Point"}
 }
