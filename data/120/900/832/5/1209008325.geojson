@@ -45,7 +45,7 @@
         "wk:page":"La_Gloria%2C_Bocas_del_Toro"
     },
     "wof:country":"PA",
-    "wof:geomhash":"c6a2b0754d2e017ffc941620822b1760",
+    "wof:geomhash":"c982135d6a4dda0fdc36bdb86ed492b8",
     "wof:hierarchy":[
         {
             "country_id":85632179,
@@ -68,5 +68,5 @@
     -82.48850999999998,
     9.3333
 ],
-  "geometry": {"coordinates":[-82.48850999999998,9.3333],"type":"Point"}
+  "geometry": {"coordinates":[-82.48851,9.3333],"type":"Point"}
 }

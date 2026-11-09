@@ -65,7 +65,7 @@
         "wk:page":"Punta_Robalo"
     },
     "wof:country":"PA",
-    "wof:geomhash":"935a2d993ffa72bdd58308df7f02d13a",
+    "wof:geomhash":"e3dc6eb702c62e38ce3125f5fcec64ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -93,5 +93,5 @@
     -82.24951999999998,
     9.03631
 ],
-  "geometry": {"coordinates":[-82.24951999999998,9.03631],"type":"Point"}
+  "geometry": {"coordinates":[-82.24952,9.03631],"type":"Point"}
 }

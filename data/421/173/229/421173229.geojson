@@ -59,7 +59,7 @@
     },
     "wof:country":"PA",
     "wof:created":1459008975,
-    "wof:geomhash":"e0caa8ce481ad6a3f9b378ab411bdfbb",
+    "wof:geomhash":"4ce1686ec7955be006124e909ae326f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -85,5 +85,5 @@
     -81.0,
     8.05
 ],
-  "geometry": {"coordinates":[-81.0,8.05],"type":"Point"}
+  "geometry": {"coordinates":[-81,8.05],"type":"Point"}
 }

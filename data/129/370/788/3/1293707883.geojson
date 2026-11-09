@@ -48,7 +48,7 @@
         "wk:page":"Rio_Sidra"
     },
     "wof:country":"PA",
-    "wof:geomhash":"6462cc7a42f401ef0666e52544ce7013",
+    "wof:geomhash":"95df767f507d9b77f79b4cfa9a8c25fb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -73,5 +73,5 @@
     -78.83270999999998,
     9.45195
 ],
-  "geometry": {"coordinates":[-78.83270999999998,9.45195],"type":"Point"}
+  "geometry": {"coordinates":[-78.83271,9.45195],"type":"Point"}
 }

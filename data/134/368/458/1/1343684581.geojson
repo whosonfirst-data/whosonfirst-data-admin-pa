@@ -52,7 +52,7 @@
         "wk:page":"Samb%C3%BA"
     },
     "wof:country":"PA",
-    "wof:geomhash":"19d51bf1650ac88b5b17f528419b0e99",
+    "wof:geomhash":"e63bfde4fed9600ada3b3241fe752034",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,5 +80,5 @@
     -78.20926999999998,
     8.0254
 ],
-  "geometry": {"coordinates":[-78.20926999999998,8.0254],"type":"Point"}
+  "geometry": {"coordinates":[-78.20927,8.0254],"type":"Point"}
 }

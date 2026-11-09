@@ -55,7 +55,7 @@
         "wk:page":"Pajonal"
     },
     "wof:country":"PA",
-    "wof:geomhash":"41f40402510766a457ee093d8a90c493",
+    "wof:geomhash":"95a9b6cc4c72980500cafce7d361f4be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,5 +83,5 @@
     -80.23241999999998,
     8.60515
 ],
-  "geometry": {"coordinates":[-80.23241999999998,8.60515],"type":"Point"}
+  "geometry": {"coordinates":[-80.23242,8.60515],"type":"Point"}
 }

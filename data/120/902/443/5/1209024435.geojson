@@ -49,7 +49,7 @@
         "wk:page":"Arenas%2C_Panama"
     },
     "wof:country":"PA",
-    "wof:geomhash":"f88dae13c4aee2069a35bf3931189773",
+    "wof:geomhash":"7df3239d35ec9dbe90557aca40e47a4f",
     "wof:hierarchy":[
         {
             "country_id":85632179,
@@ -74,5 +74,5 @@
     -80.86268000000003,
     7.36865
 ],
-  "geometry": {"coordinates":[-80.86268000000003,7.36865],"type":"Point"}
+  "geometry": {"coordinates":[-80.86268,7.36865],"type":"Point"}
 }

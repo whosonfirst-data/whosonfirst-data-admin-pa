@@ -54,7 +54,7 @@
         "wk:page":"El_Bebedero"
     },
     "wof:country":"PA",
-    "wof:geomhash":"1b0b47110b4d211821b009dff4069593",
+    "wof:geomhash":"e74815d7bffc62ac99d8a05822879c04",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,5 +80,5 @@
     -80.45640999999998,
     7.40972
 ],
-  "geometry": {"coordinates":[-80.45640999999998,7.40972],"type":"Point"}
+  "geometry": {"coordinates":[-80.45641,7.40972],"type":"Point"}
 }

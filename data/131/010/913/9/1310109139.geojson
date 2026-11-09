@@ -55,7 +55,7 @@
         "wk:page":"Boca_del_Monte"
     },
     "wof:country":"PA",
-    "wof:geomhash":"a40de502fd502896d62d7964f8f0843e",
+    "wof:geomhash":"4a7218d39baee82cdf41892fc2e481ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,5 +83,5 @@
     -82.11379000000002,
     8.35296
 ],
-  "geometry": {"coordinates":[-82.11379000000002,8.35296],"type":"Point"}
+  "geometry": {"coordinates":[-82.11379,8.35296],"type":"Point"}
 }

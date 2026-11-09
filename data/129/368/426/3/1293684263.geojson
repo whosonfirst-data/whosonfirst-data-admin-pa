@@ -52,7 +52,7 @@
         "wk:page":"Rinc%C3%B3n_Hondo"
     },
     "wof:country":"PA",
-    "wof:geomhash":"43b7fb6d3acd631949d0a8442dabcc89",
+    "wof:geomhash":"fc356d368a560ab53a218e1bccc7a9ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,5 +80,5 @@
     -80.60396999999998,
     7.84436
 ],
-  "geometry": {"coordinates":[-80.60396999999998,7.84436],"type":"Point"}
+  "geometry": {"coordinates":[-80.60397,7.84436],"type":"Point"}
 }

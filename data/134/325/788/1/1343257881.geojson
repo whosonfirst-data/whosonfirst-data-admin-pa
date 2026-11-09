@@ -55,7 +55,7 @@
         "wk:page":"Gat%C3%BA_o_Gatucito"
     },
     "wof:country":"PA",
-    "wof:geomhash":"097acdacc87cbce4f799263a918d6faa",
+    "wof:geomhash":"924c63a2da9fee56f7faef6e0b3d0778",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -81,5 +81,5 @@
     -80.95109000000002,
     8.53754
 ],
-  "geometry": {"coordinates":[-80.95109000000002,8.53754],"type":"Point"}
+  "geometry": {"coordinates":[-80.95109,8.53754],"type":"Point"}
 }

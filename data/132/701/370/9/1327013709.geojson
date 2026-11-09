@@ -51,7 +51,7 @@
         "wk:page":"El_Prado%2C_Veraguas"
     },
     "wof:country":"PA",
-    "wof:geomhash":"bc46779de4f37cf546a58282a820b4f6",
+    "wof:geomhash":"b53b243ff5f579dd1350364cd5f93ca8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,5 +77,5 @@
     -81.50421999999998,
     8.23732
 ],
-  "geometry": {"coordinates":[-81.50421999999998,8.23732],"type":"Point"}
+  "geometry": {"coordinates":[-81.50422,8.23732],"type":"Point"}
 }

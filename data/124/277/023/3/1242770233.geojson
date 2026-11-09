@@ -52,7 +52,7 @@
         "wk:page":"El_Cedro%2C_Herrera"
     },
     "wof:country":"PA",
-    "wof:geomhash":"f6df73e98d74546e71f62996bd3ed106",
+    "wof:geomhash":"b0293a41169771b7909b962e8b35a85f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,5 +80,5 @@
     -80.65926999999998,
     7.68565
 ],
-  "geometry": {"coordinates":[-80.65926999999998,7.68565],"type":"Point"}
+  "geometry": {"coordinates":[-80.65927,7.68565],"type":"Point"}
 }

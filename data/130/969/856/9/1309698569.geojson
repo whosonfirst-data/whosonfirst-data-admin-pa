@@ -53,7 +53,7 @@
         "wk:page":"El_Higo%2C_Panama"
     },
     "wof:country":"PA",
-    "wof:geomhash":"bfd8caebd51b7f7010cf6c3a36436752",
+    "wof:geomhash":"07525c2a9462d6abf4e30e7873461161",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -88,5 +88,5 @@
     -80.03603000000003,
     8.44731
 ],
-  "geometry": {"coordinates":[-80.03603000000003,8.44731],"type":"Point"}
+  "geometry": {"coordinates":[-80.03603,8.44731],"type":"Point"}
 }

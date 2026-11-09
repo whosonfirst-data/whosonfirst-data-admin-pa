@@ -55,7 +55,7 @@
         "wk:page":"Cabuya%2C_Herrera"
     },
     "wof:country":"PA",
-    "wof:geomhash":"16bfed88eae771823a8e9b7b1a433a5d",
+    "wof:geomhash":"192c15db9a3ea7725d5ac6607e2efb73",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,5 +83,5 @@
     -80.63226999999998,
     8.03138
 ],
-  "geometry": {"coordinates":[-80.63226999999998,8.03138],"type":"Point"}
+  "geometry": {"coordinates":[-80.63227,8.03138],"type":"Point"}
 }

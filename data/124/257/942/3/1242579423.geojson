@@ -52,7 +52,7 @@
         "wk:page":"Toabr%C3%A9%2C_Panama"
     },
     "wof:country":"PA",
-    "wof:geomhash":"a5ce414bf7d46849069effe4bae5e8ff",
+    "wof:geomhash":"a30bf5dfefdf8b6ca23f3490b86b42ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,5 +80,5 @@
     -80.32016999999998,
     8.65131
 ],
-  "geometry": {"coordinates":[-80.32016999999998,8.65131],"type":"Point"}
+  "geometry": {"coordinates":[-80.32017,8.65131],"type":"Point"}
 }

@@ -55,7 +55,7 @@
         "wk:page":"La_Pasera"
     },
     "wof:country":"PA",
-    "wof:geomhash":"e0900fc47960719513120974a4f88b00",
+    "wof:geomhash":"eb08b18aa449986fd9151c9eb7614419",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,5 +83,5 @@
     -80.30341999999997,
     7.79757
 ],
-  "geometry": {"coordinates":[-80.30341999999997,7.79757],"type":"Point"}
+  "geometry": {"coordinates":[-80.30342,7.79757],"type":"Point"}
 }

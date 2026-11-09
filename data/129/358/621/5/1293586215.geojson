@@ -52,7 +52,7 @@
         "wk:page":"La_Laja"
     },
     "wof:country":"PA",
-    "wof:geomhash":"593646f8a8aee701baf0f4757baebbb5",
+    "wof:geomhash":"452a7c8f4e0d5e1b11c6b01a8ccd0a7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,5 +80,5 @@
     -80.25298000000002,
     7.73102
 ],
-  "geometry": {"coordinates":[-80.25298000000002,7.73102],"type":"Point"}
+  "geometry": {"coordinates":[-80.25298,7.73102],"type":"Point"}
 }

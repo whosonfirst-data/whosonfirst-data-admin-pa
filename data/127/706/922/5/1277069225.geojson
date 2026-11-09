@@ -56,7 +56,7 @@
         "wk:page":"Los_Llanos%2C_Herrera"
     },
     "wof:country":"PA",
-    "wof:geomhash":"06c2889d2e031607b41aa44ce06db9b2",
+    "wof:geomhash":"f8deff5a22471d82b0336ef56ab7a672",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -84,5 +84,5 @@
     -80.88013000000002,
     7.92616
 ],
-  "geometry": {"coordinates":[-80.88013000000002,7.92616],"type":"Point"}
+  "geometry": {"coordinates":[-80.88013,7.92616],"type":"Point"}
 }

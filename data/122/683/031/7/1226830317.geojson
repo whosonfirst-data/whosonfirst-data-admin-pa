@@ -55,7 +55,7 @@
         "wk:page":"Uni%C3%B3n_Choc%C3%B3"
     },
     "wof:country":"PA",
-    "wof:geomhash":"a5a29d28612a2881c9e785f97646b5a2",
+    "wof:geomhash":"96edab13c06d1fe6debfdbec3f954464",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -83,5 +83,5 @@
     -77.53506999999998,
     8.08404
 ],
-  "geometry": {"coordinates":[-77.53506999999998,8.08404],"type":"Point"}
+  "geometry": {"coordinates":[-77.53507,8.08404],"type":"Point"}
 }
