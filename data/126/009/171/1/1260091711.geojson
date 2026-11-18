@@ -96,12 +96,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Orari"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5965\u62c9\u91cc\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5967\u62c9\u91cc\u6cb3"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -126,7 +120,7 @@
         }
     ],
     "wof:id":1260091711,
-    "wof:lastmodified":1636495944,
+    "wof:lastmodified":1794999722,
     "wof:name":"Orari",
     "wof:parent_id":421189057,
     "wof:placetype":"locality",
