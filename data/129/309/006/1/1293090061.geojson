@@ -44,9 +44,6 @@
     "name:vie_x_preferred":[
         "San Juan"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5723\u80e1\u5b89\u6cb3"
-    ],
     "name:zho_tw_x_preferred":[
         "\u8056\u80e1\u5b89"
     ],
@@ -78,7 +75,7 @@
         }
     ],
     "wof:id":1293090061,
-    "wof:lastmodified":1636495929,
+    "wof:lastmodified":1794999722,
     "wof:name":"San Juan",
     "wof:parent_id":421173571,
     "wof:placetype":"locality",
