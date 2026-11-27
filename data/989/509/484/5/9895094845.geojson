@@ -1,0 +1,75 @@
+{
+  "id": 9895094845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.752,9.30882,-82.752,9.30882",
+    "geom:latitude":9.30882,
+    "geom:longitude":-82.752,
+    "gn:population":5000,
+    "iso:country":"PA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 12508964 (Naso Tj\u00ebr Di): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12508964"
+        },
+        {
+            "citation":"GeoNames division 12508964 (Naso Tj\u00ebr Di): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12508964"
+        },
+        {
+            "citation":"GeoNames division 12508964 (Naso Tj\u00ebr Di): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12508964"
+        },
+        {
+            "citation":"GeoNames division 12508964 (Naso Tj\u00ebr Di): a level 1 division.",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/12508964"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Naso Tj\u00ebr Di"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632179,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12508964
+    },
+    "wof:country":"PA",
+    "wof:geomhash":"f6e3d4ac7f5a33c6a432c602a81b2165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632179,
+            "region_id":9895094845
+        }
+    ],
+    "wof:id":9895094845,
+    "wof:lastmodified":1795801395,
+    "wof:name":"Naso Tj\u00ebr Di",
+    "wof:parent_id":85632179,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-pa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.752,
+    9.30882,
+    -82.752,
+    9.30882
+],
+  "geometry": {"coordinates":[-82.752,9.30882],"type":"Point"}
+}
